@@ -6,11 +6,11 @@ require 'shmoney/version'
 Gem::Specification.new do |spec|
   spec.name          = "shmoney"
   spec.version       = Shmoney::VERSION
-  spec.authors       = ["Ed Mckain"]
+  spec.authors       = ["Edwin M"]
   spec.email         = ["mckain.default@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{Currency conversion & arithmetics with different currencies}
+  spec.description   = %q{Check exchange rates in an easy and fun way}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
